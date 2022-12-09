@@ -1,5 +1,5 @@
 <?php
-include	"connection.php";
+include	("connect.php");
 $id=$_GET["id"];
 mysqli_query($link,"delete from tbluser1 where id=$id");
 ?>
