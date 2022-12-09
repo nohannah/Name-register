@@ -1,0 +1,19 @@
+.bg{
+
+    background-color: #8d81d6;
+    font : arial;
+}
+.button{
+   background-color:rgb(218, 138, 218); 
+   color:white;
+   height:36px;
+   width:150px;
+   border-radius: 8px;
+   margin-right: 8px;
+   cursor:pointer;
+   box-shadow: 10px 10px 10px rgb(70, 55, 156);
+   
+}
+h2{
+    color: black;
+}
